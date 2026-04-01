@@ -2,8 +2,7 @@
 
 This is an interactive R Shiny dashboard to explore **French Polynesia’s dengue surveillance**, access the latest **seroprevalence study results**, and explore a **short-term forecasting module** informed by surveillance and climate data. It also includes a **Links** tab providing access to external resources.
 
-> **Disclaimer (read this first):** This app is an information-support and exploratory analysis tool—not a clinical diagnostic system. Model results are provided for exploratory purposes only. They describe plausible scenarios conditional on the underlying assumptions and selected parameters and should not be interpreted as precise forecasts. Real-world dynamics may differ due to data uncertainty, behavioral and environmental changes, and public health interventions.
-> *“All models are wrong, but some are useful.”* — George E. P. Box
+> **Disclaimer:** This app is an information-support and exploratory analysis tool—not a clinical diagnostic system. Model results are provided for exploratory purposes only. They describe plausible scenarios conditional on the underlying assumptions and selected parameters and should not be interpreted as precise forecasts. Real-world dynamics may differ due to data uncertainty, behavioral and environmental changes, and public health interventions.
 
 
 ## Features at a glance
